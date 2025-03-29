@@ -1,0 +1,4 @@
+# 忽略 datasets 資料夾
+datasets/
+# 忽略 macOS 生成的垃圾檔案
+.DS_Store
